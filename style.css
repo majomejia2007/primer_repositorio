@@ -1,0 +1,23 @@
+h1{
+color: #16FF00;/*color de letra*/
+font-size: 90px;/*tamaño del titulo*/
+text-align: center;/*centrado*/
+font-family: Georgia, 'Times New Roman', Times, serif; /*Fuente*/
+}
+div{
+    background-color:#8CC0DE/*color de fonde*/
+}
+p{
+    font-size: 35px;/*tamaño de el contenido*/
+    color: #862B0D;
+}
+img{
+width: 650px; /*tamaño de ancho*/
+height: 450px;/*Tamaño de ancho*/
+border-radius: 10%; /*Borde*/
+
+}
+
+.otro_Div{
+    background-color: aquamarine;
+}
